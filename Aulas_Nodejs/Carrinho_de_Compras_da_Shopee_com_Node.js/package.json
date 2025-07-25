@@ -1,13 +1,13 @@
 {
-  "name": "carrinho_de_compras_da_shopee_com_node",
+  "name": "carrinho-de-compras",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
